@@ -51,7 +51,7 @@ $.getJSON('nanjing.geojson', function (data) {
 		  "fontSize": 18
 		}, 
 		"subtext": "", 
-		"text": cityname, 
+		"text": "南京市中心", 
 		"top": "auto", 
 		"subtextStyle": {
 		  "color": "#aaa", 
